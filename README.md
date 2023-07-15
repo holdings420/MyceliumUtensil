@@ -14,3 +14,6 @@
 
 ## Chaga
 - The special properties of chaga make it great for making mycelium based materials.
+
+## Growing Chaga
+- Transfer Chaga spores to Birch Tree by spraying a water spore mixture using a venturi nozzle.
