@@ -18,8 +18,10 @@
 - The special properties of chaga make it great for making mycelium based materials.
 - Use chitin from any generic mushroom
 - https://www.azonano.com/news.aspx?newsID=40320
-- https://patents.google.com/patent/US20120135911A1/en
-- its just vinegar
+- https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8347713/
+- https://www.sciencedirect.com/science/article/abs/pii/S0144861714005827
+- Here is a simple analog utilizing cellulose thats already widely available
+
 
 ## Growing Chaga
 - Transfer Chaga spores to Birch Tree by spraying a water spore mixture using a venturi nozzle.
